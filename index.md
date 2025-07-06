@@ -10,10 +10,17 @@ Welcome! This organization develops JetBrains plugins to make working with GitHu
 
 Smart syntax highlighting for `run:` steps in GitHub Actions YAML files.
 
-[Download from JetBrains Marketplace](https://plugins.jetbrains.com/plugin/your-plugin-id)  
+[Download from JetBrains Marketplace](https://plugins.jetbrains.com/plugin/27841-github-actions-run-highlighter)  
 [Source code on GitHub](https://github.com/gha-workflow-plugins/run-syntax-support)
 
 ### Screenshots
 
-![Syntax highlighting example 1](img/screenshot1.png)
-![Syntax highlighting example 2](img/screenshot2.png)
+**Bash**
+
+![Bash example](img/bash.png)
+![Bash example](img/bash2.png)
+
+**Python**
+
+![Python example](img/python.png)
+![Python example](img/python2.png)
