@@ -1,3 +1,5 @@
 title: GHA Workflow Plugins
 description: JetBrains plugins for GitHub Actions workflow enhancements.
 theme: jekyll-theme-cayman
+include:
+  - _includes/head-custom.html
